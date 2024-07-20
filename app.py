@@ -34,6 +34,11 @@ def home():
     # Welcome to the Fake News Detector App!
 
     (Content from original home page)
+        In today's digital age, the proliferation of fake news has become a significant concern. Misinformation can spread rapidly, leading to misinformation and potentially harmful consequences. This project aims to tackle this issue by leveraging machine learning techniques to detect and mitigate the spread of fake news.
+Objectives
+=>Detect and classify news articles as either fake or real.
+=>Improve the accuracy of fake news detection using advanced machine learning algorithms.
+=>Provide a user-friendly interface for users to input news articles and receive detection results.
 
     ---
     """)
