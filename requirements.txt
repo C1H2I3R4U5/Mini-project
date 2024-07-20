@@ -1,0 +1,17 @@
+keras
+matplotlib
+nltk
+nltp
+numpy
+pandas
+scikit-learn
+seaborn
+streamlit
+tensorflow
+tensorflow_hub
+tensorflow_text
+wordcloud
+basicsr
+pyqt5
+pygame
+torch
