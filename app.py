@@ -32,13 +32,43 @@ def check_user(conn, username, password):
 def home():
     st.write("""
     # Welcome to the Fake News Detector App!
+    
+Project Overview:
 
-    (Content from original home page)
-        In today's digital age, the proliferation of fake news has become a significant concern. Misinformation can spread rapidly, leading to misinformation and potentially harmful consequences. This project aims to tackle this issue by leveraging machine learning techniques to detect and mitigate the spread of fake news.
-Objectives
-=>Detect and classify news articles as either fake or real.
-=>Improve the accuracy of fake news detection using advanced machine learning algorithms.
-=>Provide a user-friendly interface for users to input news articles and receive detection results.
+Welcome to our project on Fake News Detection using Machine Learning! In today's digital world, the spread of misinformation has become a critical issue.
+Our project aims to combat this by developing a sophisticated system that can accurately identify and classify news articles as real or fake using advanced 
+machine learning algorithms.
+
+
+Purpose and Importance:
+
+The rapid dissemination of fake news can lead to widespread misinformation,
+panic, and mistrust in reliable news sources. Our project addresses this challenge by
+leveraging machine learning to provide a reliable and scalable solution for detecting 
+fake news. This tool not only helps individuals verify the authenticity of news articles 
+but also contributes to a more informed and discerning society.
+
+
+Key Features
+
+Accurate Detection:- Utilizing state-of-the-art machine learning models to classify news articles with high accuracy.
+
+User-Friendly Interface:- An easy-to-use web application that allows users to input news articles and receive immediate detection results.
+
+Real-Time Analysis:- Provides instant feedback on the authenticity of news articles, helping users make informed decisions quickly.
+Comprehensive Evaluation:- Detailed metrics and performance reports to ensure the reliability of our detection system.
+
+
+User Guidance:
+
+To use our fake news detection tool:
+
+Input News Article:- Paste the text of the news article you want to verify into the provided input field.
+
+Get Results:- Click the 'Predict' button to receive an instant analysis of the article, indicating whether it is real or fake.
+
+Explore More:- Learn about the methodology behind our project, explore the detailed results, and understand the impact of machine learning in combating fake news.
+
 
     ---
     """)
